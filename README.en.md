@@ -50,9 +50,6 @@ From desktop apps to self-hosted services, I enjoy turning small ideas into thin
   </tr>
 </table>
 
-**🛠️ Also in the workshop: [XTerminal](https://github.com/Lixiuxiu559/xterminal)**  
-A local desktop workspace for Claude Code, Codex, and Shell sessions, exploring ways to reconnect to your computer's development sessions from a phone.
-
 ### 🎒 In my toolbox
 
 `Python` · `Go` · `JavaScript` · `TypeScript` · `FastMCP` · `Docker` · `SQLite`

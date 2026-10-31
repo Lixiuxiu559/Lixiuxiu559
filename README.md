@@ -50,9 +50,6 @@
   </tr>
 </table>
 
-**🛠️ 还有一个正在打磨的想法：[XTerminal](https://github.com/Lixiuxiu559/xterminal)**  
-把 Claude Code、Codex 与 Shell 会话放进本地桌面工作空间，探索从手机接回电脑上的开发会话。
-
 ### 🎒 工具箱里有什么
 
 `Python` · `Go` · `JavaScript` · `TypeScript` · `FastMCP` · `Docker` · `SQLite`
