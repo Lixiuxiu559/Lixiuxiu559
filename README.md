@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>简体中文</strong> · <a href="./README.en.md">English</a> · <a href="./assets/hello.zh-CN.png">静态版</a>
+  <strong>简体中文</strong> · <a href="./README.en.md">English</a>
 </p>
 
 ### 你好，我是 Lixiuxiu 👋

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">简体中文</a> · <strong>English</strong> · <a href="./assets/hello.en.png">Still image</a>
+  <a href="./README.md">简体中文</a> · <strong>English</strong>
 </p>
 
 ### Hi, I'm Lixiuxiu 👋

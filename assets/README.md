@@ -8,7 +8,7 @@
 | 静态头图 | [hello.zh-CN.png](hello.zh-CN.png) | [hello.en.png](hello.en.png) |
 | 项目卡片 | `*.zh-CN.svg` | `portunus.svg`、`agentforge.svg`、`ssh-mcp.svg`、`db-mcp.svg` |
 
-动画仅包含机器人轻微浮动、眨眼、终端光标闪动和贴纸浮动。SVG 源文件不包含脚本或动画；发布的 GIF 可直接在 GitHub README 显示，不依赖第三方动态图服务。读者也可以打开静态版。
+动画仅包含机器人轻微浮动、眨眼、终端光标闪动和贴纸浮动。SVG 源文件不包含脚本或动画；发布的 GIF 可直接在 GitHub README 显示，不依赖第三方动态图服务。静态 PNG 仅作素材预览，主页不提供静态版切换入口。
 
 头图源文件为 [hello.svg](hello.svg)，动画逻辑与中文文案在 [render-hero.swift](../scripts/render-hero.swift)。在 macOS 仓库根运行以下命令，可同时生成两套头图（需要 Xcode Command Line Tools，无第三方依赖）：
 
