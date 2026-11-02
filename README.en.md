@@ -19,70 +19,40 @@ From local desktop apps to self-hosted gateways, I care about straightforward se
 
 ## Open-source projects I'm building
 
-### 01 · Portunus
-
 <p>
-  <a href="https://github.com/Lixiuxiu559/portunus"><img src="./assets/portunus.svg" width="100%" alt="Portunus — Model gateway" /></a>
+  <a href="https://github.com/Lixiuxiu559/portunus">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/portunus.mobile.svg" />
+      <img src="./assets/portunus.svg" width="100%" alt="Portunus — MODEL GATEWAY. Multiple providers. One endpoint. Manage model APIs from your desktop. Route requests, translate protocols, inspect logs. Multi-provider Failover Request logs" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <strong>Multiple model providers. One local endpoint.</strong><br />
-  Manage upstream APIs, model groups and failover in a desktop app, with protocol translation and request logs.
-</p>
-<p><code>Go</code> <code>Desktop</code> <code>LLM Gateway</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/portunus/releases/latest"><strong>Download →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Lixiuxiu559/portunus">Explore the project</a>
-</p>
-
-### 02 · AgentForge
-
-<p>
-  <a href="https://github.com/Lixiuxiu559/AgentForge"><img src="./assets/agentforge.svg" width="100%" alt="AgentForge — Project Wiki and coding workflows" /></a>
+  <a href="https://github.com/Lixiuxiu559/AgentForge">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/agentforge.mobile.svg" />
+      <img src="./assets/agentforge.svg" width="100%" alt="AgentForge — PROJECT WIKI · CODING WORKFLOWS. Know the project. Build with a method. Source-linked knowledge for developers and agents. Workflows for coding, debugging and review. Project Wiki Coding workflows Three-axis review" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <strong>Understand the project. Deliver with a method.</strong><br />
-  Build a source-linked Project Wiki for developers and agents, with skills for implementation, debugging, three-axis review and quality audits.
-</p>
-<p><code>Project Wiki</code> <code>13 Skills</code> <code>Coding Agents</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/AgentForge"><strong>Explore skills and installation →</strong></a>
-</p>
-
-### 03 · SSH MCP
-
-<p>
-  <a href="https://github.com/Lixiuxiu559/ssh-mcp"><img src="./assets/ssh-mcp.svg" width="100%" alt="SSH MCP — Remote tools" /></a>
+  <a href="https://github.com/Lixiuxiu559/ssh-mcp">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/ssh-mcp.mobile.svg" />
+      <img src="./assets/ssh-mcp.svg" width="100%" alt="SSH MCP — REMOTE TOOLS · MCP. AI meets servers. Every action traceable. Run commands, work with files and check hosts. Centralize servers, credentials and audit trails. Remote commands Credentials Dual audit trails" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <strong>Connect AI to servers. Keep an audit trail.</strong><br />
-  Run remote commands, work with files and check hosts through MCP. Manage servers and credentials centrally, with separate audits for configuration changes and token calls.
-</p>
-<p><code>Python</code> <code>FastMCP</code> <code>Docker</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/ssh-mcp"><strong>Connect and deploy →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://hub.docker.com/r/lijx559/ssh-mcp">Docker image</a>
-</p>
-
-### 04 · DB MCP
-
-<p>
-  <a href="https://github.com/Lixiuxiu559/db-mcp"><img src="./assets/db-mcp.svg" width="100%" alt="DB MCP — Database tools" /></a>
-</p>
-
-<p>
-  <strong>Database access with boundaries and audit logs.</strong><br />
-  Access PostgreSQL and Redis through one gateway. Set read-only or read/write access per instance, and manage connections, credentials and database call logs.
-</p>
-<p><code>Python</code> <code>PostgreSQL</code> <code>Redis</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/db-mcp"><strong>Connect and deploy →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://hub.docker.com/r/lijx559/db-mcp">Docker image</a>
+  <a href="https://github.com/Lixiuxiu559/db-mcp">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/db-mcp.mobile.svg" />
+      <img src="./assets/db-mcp.svg" width="100%" alt="DB MCP — DATABASE TOOLS · MCP. Database access. Clear boundaries. One gateway for PostgreSQL and Redis. Per-instance access controls and database audit logs. Multi-instance Read / write Database audits" />
+    </picture>
+  </a>
 </p>
 
 ## What I focus on

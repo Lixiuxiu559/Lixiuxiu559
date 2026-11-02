@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="580" viewBox="0 0 480 580" role="img" aria-labelledby="title desc">
+<title id="title">SSH MCP — REMOTE TOOLS · MCP</title><desc id="desc">AI meets servers. Every action traceable. Run commands, work with files and check hosts. Centralize servers, credentials and audit trails. Remote commands Credentials Dual audit trails</desc>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#282533" opacity=".055"/></pattern></defs>
+<rect x="7" y="9" width="470" height="568" rx="26" fill="#282533" stroke="none" stroke-width="2"/>
+<rect x="2" y="2" width="468" height="568" rx="26" fill="#e0f4ed" stroke="#282533" stroke-width="3"/>
+<rect x="5" y="5" width="462" height="562" rx="23" fill="url(#dots)" stroke="none" stroke-width="2"/>
+<g font-family="Trebuchet MS, PingFang SC, Microsoft YaHei, Arial, sans-serif">
+<text x="28" y="43" font-size="16" font-weight="700" fill="#246c59" >03  /  REMOTE TOOLS · MCP</text>
+<text x="28" y="102" font-size="43" font-weight="800" fill="#282533" letter-spacing="-1.5">SSH MCP</text>
+<g transform="translate(326 74) scale(.72)"><rect x="6" y="18" width="145" height="105" rx="15" fill="#fff8ef" stroke="#282533" stroke-width="3"/><path d="M6 47h145" stroke="#282533" stroke-width="3"/><g fill="#459f87"><circle cx="23" cy="33" r="4"/><circle cx="37" cy="33" r="4"/><circle cx="51" cy="33" r="4"/></g><path d="m30 68 18 14-18 14m38 0h29" fill="none" stroke="#459f87" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="m119 77 12 7 12-7v16q0 12-12 18-12-6-12-18Z" fill="#459f87" stroke="#282533" stroke-width="2"/></g>
+<text x="28" y="181" font-size="28" font-weight="750" fill="#282533" >AI meets servers.</text>
+<text x="28" y="218" font-size="28" font-weight="750" fill="#282533" >Every action traceable.</text>
+<text x="28" y="273" font-size="22" font-weight="500" fill="#4f4a59" >Run commands, manage files, check hosts.</text>
+<text x="28" y="307" font-size="22" font-weight="500" fill="#4f4a59" >Centralize servers and credentials.</text>
+<text x="28" y="341" font-size="22" font-weight="500" fill="#4f4a59" >Audit configuration and token calls.</text>
+<rect x="28" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#459f87" stroke-width="1.5"/>
+<text x="94.0" y="408" font-size="17" font-weight="700" fill="#246c59" text-anchor="middle">Remote commands</text>
+<rect x="170" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#459f87" stroke-width="1.5"/>
+<text x="236.0" y="408" font-size="17" font-weight="700" fill="#246c59" text-anchor="middle">Credentials</text>
+<rect x="312" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#459f87" stroke-width="1.5"/>
+<text x="378.0" y="408" font-size="17" font-weight="700" fill="#246c59" text-anchor="middle">Dual audit trails</text>
+<path d="M28 449H442" stroke="#282533" stroke-opacity=".18" stroke-width="1.5"/>
+<text x="28" y="480" font-size="21" font-weight="600" fill="#4f4a59" >Python  /  FastMCP  /  Docker</text>
+<rect x="28" y="506" width="414" height="48" rx="12" fill="#282533" stroke="none" stroke-width="2"/>
+<text x="47" y="538.0" font-size="23" font-weight="700" fill="#fffaf2" >Explore &amp; deploy</text>
+<text x="424" y="538.0" font-size="26" font-weight="600" fill="#fffaf2" text-anchor="end">↗</text>
+</g></svg>

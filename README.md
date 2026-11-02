@@ -19,70 +19,40 @@
 
 ## 我在做的开源项目
 
-### 01 · Portunus
-
 <p>
-  <a href="https://github.com/Lixiuxiu559/portunus"><img src="./assets/portunus.zh-CN.svg" width="100%" alt="Portunus — 模型聚合网关" /></a>
+  <a href="https://github.com/Lixiuxiu559/portunus">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/portunus.zh-CN.mobile.svg" />
+      <img src="./assets/portunus.zh-CN.svg" width="100%" alt="Portunus — 模型聚合网关. 多个模型渠道，一个本地入口。 统一管理上游 API、模型分组与协议转换， 让模型调用、故障转移和日志查看更顺手。 多渠道接入 自动故障转移 调用日志" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <strong>多个模型渠道，一个本地入口。</strong><br />
-  在桌面端统一管理上游 API、模型分组与故障转移，处理协议转换，并查看调用记录。
-</p>
-<p><code>Go</code> <code>Desktop</code> <code>LLM Gateway</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/portunus/releases/latest"><strong>下载安装 →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Lixiuxiu559/portunus">了解项目</a>
-</p>
-
-### 02 · AgentForge
-
-<p>
-  <a href="https://github.com/Lixiuxiu559/AgentForge"><img src="./assets/agentforge.zh-CN.svg" width="100%" alt="AgentForge — 项目 Wiki 与 Coding Agent 工作流" /></a>
+  <a href="https://github.com/Lixiuxiu559/AgentForge">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/agentforge.zh-CN.mobile.svg" />
+      <img src="./assets/agentforge.zh-CN.svg" width="100%" alt="AgentForge — 项目 WIKI · 开发工作流. 读懂项目，再有章法地交付代码。 为开发者与 Agent 构建可追溯的项目知识， 串联功能实现、Bug 调试、评审与质量审计。 可追溯 Wiki 开发工作流 三轴代码评审" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <strong>读懂项目，再有章法地交付代码。</strong><br />
-  为开发者与 Agent 生成可追溯的项目 Wiki，配合功能实现、Bug 调试、三轴评审和质量审计。
-</p>
-<p><code>Project Wiki</code> <code>13 Skills</code> <code>Coding Agents</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/AgentForge"><strong>查看技能与安装方式 →</strong></a>
-</p>
-
-### 03 · SSH MCP
-
-<p>
-  <a href="https://github.com/Lixiuxiu559/ssh-mcp"><img src="./assets/ssh-mcp.zh-CN.svg" width="100%" alt="SSH MCP — 服务器与工具接入" /></a>
+  <a href="https://github.com/Lixiuxiu559/ssh-mcp">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/ssh-mcp.zh-CN.mobile.svg" />
+      <img src="./assets/ssh-mcp.zh-CN.svg" width="100%" alt="SSH MCP — 服务器与工具接入. 让 AI 操作服务器，也让操作可追溯。 通过 MCP 执行远程命令、处理文件与检查主机， 集中管理服务器、凭据与人员 / Token 审计。 远程命令执行 集中凭据管理 双审计记录" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <strong>让 AI 操作服务器，也让操作可追溯。</strong><br />
-  通过 MCP 执行远程命令、处理文件和检查主机。集中管理服务器与凭据，分别审计人员配置和 Token 调用。
-</p>
-<p><code>Python</code> <code>FastMCP</code> <code>Docker</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/ssh-mcp"><strong>查看接入与部署 →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://hub.docker.com/r/lijx559/ssh-mcp">Docker 镜像</a>
-</p>
-
-### 04 · DB MCP
-
-<p>
-  <a href="https://github.com/Lixiuxiu559/db-mcp"><img src="./assets/db-mcp.zh-CN.svg" width="100%" alt="DB MCP — 数据库访问与审计" /></a>
-</p>
-
-<p>
-  <strong>连接数据库，保留读写边界与审计。</strong><br />
-  统一接入 PostgreSQL 与 Redis，按实例设置只读或读写，集中管理连接、凭据和数据库调用记录。
-</p>
-<p><code>Python</code> <code>PostgreSQL</code> <code>Redis</code></p>
-<p>
-  <a href="https://github.com/Lixiuxiu559/db-mcp"><strong>查看接入与部署 →</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://hub.docker.com/r/lijx559/db-mcp">Docker 镜像</a>
+  <a href="https://github.com/Lixiuxiu559/db-mcp">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/db-mcp.zh-CN.mobile.svg" />
+      <img src="./assets/db-mcp.zh-CN.svg" width="100%" alt="DB MCP — 数据库访问与审计. 连接数据库，保留读写边界与审计。 统一接入 PostgreSQL 与 Redis，按实例设置权限， 集中管理连接、凭据和数据库调用记录。 多实例接入 读写权限边界 数据库审计" />
+    </picture>
+  </a>
 </p>
 
 ## 我关注的方向

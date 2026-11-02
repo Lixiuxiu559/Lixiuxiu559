@@ -17,3 +17,9 @@ swift -module-cache-path /tmp/profile-swift-cache scripts/render-hero.swift
 ```
 
 中文项目卡片为独立 SVG，修改项目名称或描述时同步两套对应卡片，并检查中英文 README。
+
+## 项目卡片排版
+
+项目名称、简介、能力标签、技术栈与入口提示统一放入 SVG 卡片，README 项目区仅保留整卡链接。桌面卡片为 `880 × 456`，移动卡片为 `480 × 580`；通过 `<picture>` 在屏幕宽度不超过 `600px` 时选用 `*.mobile.svg`。所有卡片均为自包含矢量素材，无外部字体、脚本或图片依赖。
+
+更新文案时同步中英文和桌面／移动四个版本，并保留 SVG 的 `title`、`desc` 和 README 图片的 `alt`。整卡链接进入对应仓库，图内入口提示不作为独立按钮。

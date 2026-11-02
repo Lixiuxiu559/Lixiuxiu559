@@ -1,7 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="178" viewBox="0 0 560 178" role="img" aria-labelledby="title"><title id="title">DB MCP — DATA TOOLS</title>
-<rect x="5" y="7" width="552" height="168" rx="19" fill="#282533"/>
-<rect x="2" y="2" width="551" height="167" rx="19" fill="#e4edff" stroke="#282533" stroke-width="2.5"/>
-<text x="29" y="75" font-family="Trebuchet MS,Arial,sans-serif" font-size="43" font-weight="800" letter-spacing="-1.3" fill="#282533">DB MCP</text>
-<text x="31" y="116" font-family="Trebuchet MS,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1.7" fill="#5b87cc">DATA TOOLS</text>
-<path d="M31 141h55" stroke="#5b87cc" stroke-width="5" stroke-linecap="round"/>
-<g transform="translate(368 14) scale(.95)"><path d="M34 34v71c0 25 90 25 90 0V34" fill="#fff8ef" stroke="#282533" stroke-width="3"/><ellipse cx="79" cy="34" rx="45" ry="17" fill="#5b87cc" stroke="#282533" stroke-width="3"/><path d="M34 69c0 24 90 24 90 0m-90 31c0 24 90 24 90 0" fill="none" stroke="#282533" stroke-width="3"/><circle cx="137" cy="95" r="20" fill="#5b87cc" stroke="#282533" stroke-width="3"/><path d="m128 95 6 6 12-13" stroke="#fff8ef" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="456" viewBox="0 0 880 456" role="img" aria-labelledby="title desc">
+<title id="title">DB MCP — DATABASE TOOLS · MCP</title><desc id="desc">Database access. Clear boundaries. One gateway for PostgreSQL and Redis. Per-instance access controls and database audit logs. Multi-instance Read / write Database audits</desc>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#282533" opacity=".055"/></pattern></defs>
+<rect x="7" y="9" width="870" height="444" rx="26" fill="#282533" stroke="none" stroke-width="2"/>
+<rect x="2" y="2" width="868" height="444" rx="26" fill="#e4edff" stroke="#282533" stroke-width="3"/>
+<rect x="5" y="5" width="862" height="438" rx="23" fill="url(#dots)" stroke="none" stroke-width="2"/>
+<g font-family="Trebuchet MS, PingFang SC, Microsoft YaHei, Arial, sans-serif">
+<text x="38" y="43" font-size="19" font-weight="700" fill="#355f9f" >04  /  DATABASE TOOLS · MCP</text>
+<text x="38" y="113" font-size="58" font-weight="800" fill="#282533" letter-spacing="-1.5">DB MCP</text>
+<rect x="636" y="61" width="198" height="205" rx="20" fill="#fffaf2" stroke="#282533" stroke-width="2.5"/>
+<path d="M636 96h198" stroke="#282533" stroke-width="2"/>
+<circle cx="652" cy="79" r="3.5" fill="#5b87cc"/>
+<circle cx="665" cy="79" r="3.5" fill="#5b87cc"/>
+<circle cx="678" cy="79" r="3.5" fill="#5b87cc"/>
+<text x="819" y="85" font-size="18" font-weight="700" fill="#355f9f" text-anchor="end">↗</text>
+<g transform="translate(646 105) scale(1.09)"><path d="M34 34v71c0 25 90 25 90 0V34" fill="#fff8ef" stroke="#282533" stroke-width="3"/><ellipse cx="79" cy="34" rx="45" ry="17" fill="#5b87cc" stroke="#282533" stroke-width="3"/><path d="M34 69c0 24 90 24 90 0m-90 31c0 24 90 24 90 0" fill="none" stroke="#282533" stroke-width="3"/><circle cx="137" cy="95" r="20" fill="#5b87cc" stroke="#282533" stroke-width="3"/><path d="m128 95 6 6 12-13" stroke="#fff8ef" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="38" y="172" font-size="28" font-weight="750" fill="#282533" >Database access. Clear boundaries.</text>
+<text x="38" y="217" font-size="22" font-weight="500" fill="#4f4a59" >One gateway for PostgreSQL and Redis.</text>
+<text x="38" y="252" font-size="22" font-weight="500" fill="#4f4a59" >Per-instance access controls and database audit logs.</text>
+<rect x="38" y="294" width="252" height="48" rx="12" fill="#fffaf2" stroke="#5b87cc" stroke-width="1.5"/>
+<text x="164.0" y="325" font-size="22" font-weight="700" fill="#355f9f" text-anchor="middle">Multi-instance</text>
+<rect x="310" y="294" width="252" height="48" rx="12" fill="#fffaf2" stroke="#5b87cc" stroke-width="1.5"/>
+<text x="436.0" y="325" font-size="22" font-weight="700" fill="#355f9f" text-anchor="middle">Read / write</text>
+<rect x="582" y="294" width="252" height="48" rx="12" fill="#fffaf2" stroke="#5b87cc" stroke-width="1.5"/>
+<text x="708.0" y="325" font-size="22" font-weight="700" fill="#355f9f" text-anchor="middle">Database audits</text>
+<path d="M38 370H832" stroke="#282533" stroke-opacity=".18" stroke-width="1.5"/>
+<text x="38" y="414" font-size="22" font-weight="600" fill="#4f4a59" >Python  /  PostgreSQL  /  Redis</text>
+<rect x="572" y="389" width="262" height="42" rx="12" fill="#282533" stroke="none" stroke-width="2"/>
+<text x="591" y="418.0" font-size="21" font-weight="700" fill="#fffaf2" >Explore &amp; deploy</text>
+<text x="816" y="418.0" font-size="26" font-weight="600" fill="#fffaf2" text-anchor="end">↗</text>
+</g></svg>
