@@ -18,7 +18,7 @@
 <rect x="170" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#8c64d5" stroke-width="1.5"/>
 <text x="236.0" y="408" font-size="20" font-weight="700" fill="#6541a6" text-anchor="middle">开发工作流</text>
 <rect x="312" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#8c64d5" stroke-width="1.5"/>
-<text x="378.0" y="408" font-size="20" font-weight="700" fill="#6541a6" text-anchor="middle">三轴代码评审</text>
+<text x="378.0" y="408" font-size="20" font-weight="700" fill="#6541a6" text-anchor="middle">三轴评审</text>
 <path d="M28 449H442" stroke="#282533" stroke-opacity=".18" stroke-width="1.5"/>
 <text x="28" y="480" font-size="18" font-weight="600" fill="#4f4a59" >Project Wiki  /  13 Skills  /  Coding Agents</text>
 <rect x="28" y="506" width="414" height="48" rx="12" fill="#282533" stroke="none" stroke-width="2"/>

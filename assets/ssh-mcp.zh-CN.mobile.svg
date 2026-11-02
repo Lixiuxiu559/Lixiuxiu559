@@ -14,9 +14,9 @@
 <text x="28" y="307" font-size="24" font-weight="500" fill="#4f4a59" >集中管理服务器与凭据，</text>
 <text x="28" y="341" font-size="24" font-weight="500" fill="#4f4a59" >分别审计人员配置和 Token 调用。</text>
 <rect x="28" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#459f87" stroke-width="1.5"/>
-<text x="94.0" y="408" font-size="20" font-weight="700" fill="#246c59" text-anchor="middle">远程命令执行</text>
+<text x="94.0" y="408" font-size="20" font-weight="700" fill="#246c59" text-anchor="middle">远程命令</text>
 <rect x="170" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#459f87" stroke-width="1.5"/>
-<text x="236.0" y="408" font-size="20" font-weight="700" fill="#246c59" text-anchor="middle">集中凭据管理</text>
+<text x="236.0" y="408" font-size="20" font-weight="700" fill="#246c59" text-anchor="middle">凭据管理</text>
 <rect x="312" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#459f87" stroke-width="1.5"/>
 <text x="378.0" y="408" font-size="20" font-weight="700" fill="#246c59" text-anchor="middle">双审计记录</text>
 <path d="M28 449H442" stroke="#282533" stroke-opacity=".18" stroke-width="1.5"/>

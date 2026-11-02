@@ -18,7 +18,7 @@
 <rect x="170" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#5b87cc" stroke-width="1.5"/>
 <text x="236.0" y="408" font-size="17" font-weight="700" fill="#355f9f" text-anchor="middle">Read / write</text>
 <rect x="312" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#5b87cc" stroke-width="1.5"/>
-<text x="378.0" y="408" font-size="17" font-weight="700" fill="#355f9f" text-anchor="middle">Database audits</text>
+<text x="378.0" y="408" font-size="17" font-weight="700" fill="#355f9f" text-anchor="middle">Audit logs</text>
 <path d="M28 449H442" stroke="#282533" stroke-opacity=".18" stroke-width="1.5"/>
 <text x="28" y="480" font-size="21" font-weight="600" fill="#4f4a59" >Python  /  PostgreSQL  /  Redis</text>
 <rect x="28" y="506" width="414" height="48" rx="12" fill="#282533" stroke="none" stroke-width="2"/>

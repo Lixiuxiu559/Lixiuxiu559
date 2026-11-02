@@ -16,7 +16,7 @@
 <rect x="28" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#e9902c" stroke-width="1.5"/>
 <text x="94.0" y="408" font-size="20" font-weight="700" fill="#9d5310" text-anchor="middle">多渠道接入</text>
 <rect x="170" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#e9902c" stroke-width="1.5"/>
-<text x="236.0" y="408" font-size="20" font-weight="700" fill="#9d5310" text-anchor="middle">自动故障转移</text>
+<text x="236.0" y="408" font-size="20" font-weight="700" fill="#9d5310" text-anchor="middle">故障转移</text>
 <rect x="312" y="377" width="132" height="48" rx="12" fill="#fffaf2" stroke="#e9902c" stroke-width="1.5"/>
 <text x="378.0" y="408" font-size="20" font-weight="700" fill="#9d5310" text-anchor="middle">调用日志</text>
 <path d="M28 449H442" stroke="#282533" stroke-opacity=".18" stroke-width="1.5"/>
