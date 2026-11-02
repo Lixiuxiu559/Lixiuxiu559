@@ -22,8 +22,8 @@ From local desktop apps to self-hosted gateways, I care about straightforward se
 <p>
   <a href="https://github.com/Lixiuxiu559/portunus">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/portunus.mobile.svg" />
-      <img src="./assets/portunus.svg" width="100%" alt="Portunus — MODEL GATEWAY. Multiple providers. One endpoint. Manage model APIs from your desktop. Route requests, translate protocols, inspect logs. Multi-provider Failover Request logs" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/portunus.mobile.svg" />
+      <img src="./assets/projects/portunus.svg" width="100%" alt="Portunus — MODEL GATEWAY. Multiple providers. One endpoint. Manage model APIs from your desktop. Route requests, translate protocols, inspect logs. Multi-provider Failover Request logs" />
     </picture>
   </a>
 </p>
@@ -31,8 +31,8 @@ From local desktop apps to self-hosted gateways, I care about straightforward se
 <p>
   <a href="https://github.com/Lixiuxiu559/AgentForge">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/agentforge.mobile.svg" />
-      <img src="./assets/agentforge.svg" width="100%" alt="AgentForge — PROJECT WIKI · CODING WORKFLOWS. Know the project. Build with a method. Source-linked knowledge for developers and agents. Workflows for coding, debugging and review. Project Wiki Coding workflows Three-axis review" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/agentforge.mobile.svg" />
+      <img src="./assets/projects/agentforge.svg" width="100%" alt="AgentForge — PROJECT WIKI · CODING WORKFLOWS. Know the project. Build with a method. Source-linked knowledge for developers and agents. Workflows for coding, debugging and review. Project Wiki Coding workflows Three-axis review" />
     </picture>
   </a>
 </p>
@@ -40,8 +40,8 @@ From local desktop apps to self-hosted gateways, I care about straightforward se
 <p>
   <a href="https://github.com/Lixiuxiu559/ssh-mcp">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/ssh-mcp.mobile.svg" />
-      <img src="./assets/ssh-mcp.svg" width="100%" alt="SSH MCP — REMOTE TOOLS · MCP. AI meets servers. Every action traceable. Run commands, work with files and check hosts. Centralize servers, credentials and audit trails. Remote commands Credentials Dual audit trails" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/ssh-mcp.mobile.svg" />
+      <img src="./assets/projects/ssh-mcp.svg" width="100%" alt="SSH MCP — REMOTE TOOLS · MCP. AI meets servers. Every action traceable. Run commands, work with files and check hosts. Centralize servers, credentials and audit trails. Remote commands Credentials Dual audit trails" />
     </picture>
   </a>
 </p>
@@ -49,8 +49,8 @@ From local desktop apps to self-hosted gateways, I care about straightforward se
 <p>
   <a href="https://github.com/Lixiuxiu559/db-mcp">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/db-mcp.mobile.svg" />
-      <img src="./assets/db-mcp.svg" width="100%" alt="DB MCP — DATABASE TOOLS · MCP. Database access. Clear boundaries. One gateway for PostgreSQL and Redis. Per-instance access controls and database audit logs. Multi-instance Read / write Database audits" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/db-mcp.mobile.svg" />
+      <img src="./assets/projects/db-mcp.svg" width="100%" alt="DB MCP — DATABASE TOOLS · MCP. Database access. Clear boundaries. One gateway for PostgreSQL and Redis. Per-instance access controls and database audit logs. Multi-instance Read / write Database audits" />
     </picture>
   </a>
 </p>

@@ -22,8 +22,8 @@
 <p>
   <a href="https://github.com/Lixiuxiu559/portunus">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/portunus.zh-CN.mobile.svg" />
-      <img src="./assets/portunus.zh-CN.svg" width="100%" alt="Portunus — 模型聚合网关. 多个模型渠道，一个本地入口。 统一管理上游 API、模型分组与协议转换， 让模型调用、故障转移和日志查看更顺手。 多渠道接入 自动故障转移 调用日志" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/portunus.zh-CN.mobile.svg" />
+      <img src="./assets/projects/portunus.zh-CN.svg" width="100%" alt="Portunus — 模型聚合网关. 多个模型渠道，一个本地入口。 统一管理上游 API、模型分组与协议转换， 让模型调用、故障转移和日志查看更顺手。 多渠道接入 自动故障转移 调用日志" />
     </picture>
   </a>
 </p>
@@ -31,8 +31,8 @@
 <p>
   <a href="https://github.com/Lixiuxiu559/AgentForge">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/agentforge.zh-CN.mobile.svg" />
-      <img src="./assets/agentforge.zh-CN.svg" width="100%" alt="AgentForge — 项目 WIKI · 开发工作流. 读懂项目，再有章法地交付代码。 为开发者与 Agent 构建可追溯的项目知识， 串联功能实现、Bug 调试、评审与质量审计。 可追溯 Wiki 开发工作流 三轴代码评审" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/agentforge.zh-CN.mobile.svg" />
+      <img src="./assets/projects/agentforge.zh-CN.svg" width="100%" alt="AgentForge — 项目 WIKI · 开发工作流. 读懂项目，再有章法地交付代码。 为开发者与 Agent 构建可追溯的项目知识， 串联功能实现、Bug 调试、评审与质量审计。 可追溯 Wiki 开发工作流 三轴代码评审" />
     </picture>
   </a>
 </p>
@@ -40,8 +40,8 @@
 <p>
   <a href="https://github.com/Lixiuxiu559/ssh-mcp">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/ssh-mcp.zh-CN.mobile.svg" />
-      <img src="./assets/ssh-mcp.zh-CN.svg" width="100%" alt="SSH MCP — 服务器与工具接入. 让 AI 操作服务器，也让操作可追溯。 通过 MCP 执行远程命令、处理文件与检查主机， 集中管理服务器、凭据与人员 / Token 审计。 远程命令执行 集中凭据管理 双审计记录" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/ssh-mcp.zh-CN.mobile.svg" />
+      <img src="./assets/projects/ssh-mcp.zh-CN.svg" width="100%" alt="SSH MCP — 服务器与工具接入. 让 AI 操作服务器，也让操作可追溯。 通过 MCP 执行远程命令、处理文件与检查主机， 集中管理服务器、凭据与人员 / Token 审计。 远程命令执行 集中凭据管理 双审计记录" />
     </picture>
   </a>
 </p>
@@ -49,8 +49,8 @@
 <p>
   <a href="https://github.com/Lixiuxiu559/db-mcp">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/db-mcp.zh-CN.mobile.svg" />
-      <img src="./assets/db-mcp.zh-CN.svg" width="100%" alt="DB MCP — 数据库访问与审计. 连接数据库，保留读写边界与审计。 统一接入 PostgreSQL 与 Redis，按实例设置权限， 集中管理连接、凭据和数据库调用记录。 多实例接入 读写权限边界 数据库审计" />
+      <source media="(max-width: 600px)" srcset="./assets/projects/db-mcp.zh-CN.mobile.svg" />
+      <img src="./assets/projects/db-mcp.zh-CN.svg" width="100%" alt="DB MCP — 数据库访问与审计. 连接数据库，保留读写边界与审计。 统一接入 PostgreSQL 与 Redis，按实例设置权限， 集中管理连接、凭据和数据库调用记录。 多实例接入 读写权限边界 数据库审计" />
     </picture>
   </a>
 </p>
