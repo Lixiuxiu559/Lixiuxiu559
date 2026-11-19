@@ -1,6 +1,6 @@
 <p align="right"><strong>简体中文</strong> · <a href="./README.en.md">English</a></p>
 
-<p><img src="./assets/gallery/starry-zh.jpg" width="100%" alt="Lixiuxiu — 我做 AI 开发工具，让模型、代码和真实系统连起来。" /></p>
+<p><img src="./assets/gallery/starry-zh.jpg" width="100%" alt="Lixiuxiu — 我写开源工具，做了一个让不同模型共用的网关，也用 MCP 让 AI 助手能连服务器、查数据库。" /></p>
 
 <p><a href="https://github.com/Lixiuxiu559/portunus"><img src="./assets/gallery/portunus.zh.row.jpg" width="100%" alt="Portunus — 多个模型渠道，共用一个本地入口。" /></a></p>
 

@@ -1,6 +1,6 @@
 <p align="right"><a href="./README.md">简体中文</a> · <strong>English</strong></p>
 
-<p><img src="./assets/gallery/starry-en.jpg" width="100%" alt="Lixiuxiu — I build AI tools that connect models, code and real systems." /></p>
+<p><img src="./assets/gallery/starry-en.jpg" width="100%" alt="Lixiuxiu — I build open-source tools: a gateway for model providers and MCP servers that let AI assistants work with remote hosts and databases." /></p>
 
 <p><a href="https://github.com/Lixiuxiu559/portunus"><img src="./assets/gallery/portunus.en.row.jpg" width="100%" alt="Portunus — Use one local endpoint for multiple model providers." /></a></p>
 
