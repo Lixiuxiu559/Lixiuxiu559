@@ -1,6 +1,10 @@
 # 个人主页素材
 
-主页保留柔和配色、终端与机器人插画。中英文 README 使用各自语言的头图和项目卡片。
+画廊素材位于 [gallery](gallery/)。两版共用四幅项目原画，各自使用对应语言的星空封面和 `*.zh.row.jpg`、`*.en.row.jpg` 横幅。每张横幅由左侧油画渐隐到右侧介绍。项目顺序、替代文本和仓库链接维护在两份 README 中。
+
+## 旧版主页素材
+
+以下是机器人主题的素材和生成方式。
 
 | 素材 | 中文 | English |
 |---|---|---|
@@ -8,7 +12,7 @@
 | 静态头图 | [hello.zh-CN.png](hello.zh-CN.png) | [hello.en.png](hello.en.png) |
 | 项目卡片 | `projects/*.zh-CN.svg` | `projects/portunus.svg`、`projects/agentforge.svg`、`projects/ssh-mcp.svg`、`projects/db-mcp.svg` |
 
-动画仅包含机器人轻微浮动、眨眼、终端光标闪动和贴纸浮动。SVG 源文件不包含脚本或动画；发布的 GIF 可直接在 GitHub README 显示，不依赖第三方动态图服务。静态 PNG 仅作素材预览，主页不提供静态版切换入口。
+动画仅包含机器人轻微浮动、眨眼、终端光标闪动和贴纸浮动。SVG 源文件不包含脚本或动画；旧版 GIF 可直接在 GitHub README 显示，不依赖第三方动态图服务。静态 PNG 仅作素材预览。
 
 头图源文件为 [hello.svg](hello.svg)，动画逻辑与中文文案在 [render-hero.swift](../scripts/render-hero.swift)。在 macOS 仓库根运行以下命令，可同时生成两套头图（需要 Xcode Command Line Tools，无第三方依赖）：
 
@@ -20,6 +24,6 @@ swift -module-cache-path /tmp/profile-swift-cache scripts/render-hero.swift
 
 ## 项目卡片排版
 
-卡片素材集中在 `projects/` 目录。项目名称、简介、能力标签、技术栈与入口提示统一放入 SVG 卡片，README 项目区仅保留整卡链接。桌面卡片为 `880 × 456`，移动卡片为 `480 × 580`；通过 `<picture>` 在屏幕宽度不超过 `600px` 时选用 `*.mobile.svg`。所有卡片均为自包含矢量素材，无外部字体、脚本或图片依赖。
+卡片素材集中在 `projects/` 目录。项目名称、简介、能力标签、技术栈与入口提示统一放入 SVG 卡片，旧版 README 项目区使用整卡链接。桌面卡片为 `880 × 456`，移动卡片为 `480 × 580`；通过 `<picture>` 在屏幕宽度不超过 `600px` 时选用 `*.mobile.svg`。所有卡片均为自包含矢量素材，无外部字体、脚本或图片依赖。
 
 更新文案时同步中英文和桌面／移动四个版本，并保留 SVG 的 `title`、`desc` 和 README 图片的 `alt`。整卡链接进入对应仓库，图内入口提示不作为独立按钮。
